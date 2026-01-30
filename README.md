@@ -41,6 +41,11 @@ Develop a program with dynamic questions. It should ask the user to answer 3 que
 
 ## ✅ Day 03 - 
 
+
+## 📚 Supporting content
+
+- [```Boolean Operations```](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript)
+
 <!-- LINKS THE BAGDES -->
 [javascript-url]: https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black
 [git-url]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
