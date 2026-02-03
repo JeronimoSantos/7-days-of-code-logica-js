@@ -39,12 +39,19 @@ Develop a program with dynamic questions. It should ask the user to answer 3 que
 - What programming language are you studying?
 ```
 
-## ✅ Day 03 - 
+## ✅ Day 03 -  JavaScript Logic 3/7: Decision flow
+Work with flow control structures.
 
+```
+To do this, you will need some structures capable of changing the flow of the application, such as for, while, if and else. All of these can achieve this objective, given a certain condition.
+```
+
+## ✅ Day 04 -
 
 ## 📚 Supporting content
 
 - [```Boolean Operations```](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript)
+- [```While```](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while)
 
 <!-- LINKS THE BAGDES -->
 [javascript-url]: https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black
