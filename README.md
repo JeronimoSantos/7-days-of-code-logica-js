@@ -46,7 +46,8 @@ Work with flow control structures.
 To do this, you will need some structures capable of changing the flow of the application, such as for, while, if and else. All of these can achieve this objective, given a certain condition.
 ```
 
-## ✅ Day 04 -
+## ✅ Day 04 - JavaScript Logic 4/7: loops and randomization
+
 
 ## 📚 Supporting content
 
